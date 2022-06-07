@@ -11,6 +11,7 @@ I am looking forward to improve my JS skills in RS school.
 - HTML
 - CSS (SCSS)
 - JS
+- Linux
 - English
 - Photoshop / Figma
 
