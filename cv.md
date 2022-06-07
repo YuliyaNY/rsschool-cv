@@ -12,7 +12,6 @@ I am looking forward to improve my JS skills in RS school.
 - CSS (SCSS)
 - JS
 - Linux
-- English
 - Photoshop / Figma
 
 ## Code
@@ -21,9 +20,8 @@ function sum(a, b) {
     return a + b;
 }
 ```
-
-
-
+## English
+- Fluent
 
 
 
